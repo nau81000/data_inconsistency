@@ -7,6 +7,14 @@ Ce projet recherche les incohérences dans le jeu de données d'une société et
 - python3
 - sqlite3
 
+## Structure principale du projet
+
+```
+├── create_db.sh             # Script d'initialisation de la base de données
+├── notebook.ipynb           # Notebook python contenant l'analyse
+├── results.pdf              # Résultats d'analyse
+```
+
 ## Installation
 
 1. **Cloner le dépôt**
